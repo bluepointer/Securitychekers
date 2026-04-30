@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "name": "internal-data-engine",
+  "rewrites": [
+    { "source": "/api/(.*)", "destination": "/api/engine" },
+    { "source": "/((?!api/).*)", "destination": "/public/index.html" }
+  ],
+  "trailingSlash": false
+}

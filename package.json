@@ -1,0 +1,7 @@
+{
+  "name": "core-logic-service",
+  "version": "1.0.0",
+  "description": "Internal microservice for data processing",
+  "private": true,
+  "license": "MIT"
+}
