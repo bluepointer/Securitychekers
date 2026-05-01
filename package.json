@@ -2,6 +2,8 @@
   "name": "core-logic-service",
   "version": "1.0.0",
   "description": "Internal microservice for data processing",
+  "main": "api/engine.js",
+  "type": "module",
   "private": true,
   "license": "MIT"
 }
